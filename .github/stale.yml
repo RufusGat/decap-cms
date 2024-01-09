@@ -1,4 +1,4 @@
-# Number of days of inactivity before an issue becomes stale
+66ae59f45c86f7bb64e5d2038afabbdf70f484a1# Number of days of inactivity before an issue becomes stale
 daysUntilStale: 60
 # Number of days of inactivity before a stale issue is closed
 daysUntilClose: 14
